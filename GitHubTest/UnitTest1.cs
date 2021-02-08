@@ -11,7 +11,7 @@ namespace GitHubTest
         public void TestMethod1()
         {
             Class1 tp = new Class1();
-            Assert.AreEqual(tp.Name, " Monique Jackson - The Code Master ");
+            Assert.AreEqual(tp.Name, " Monique A Jackson - The Code Master ");
 
         }
     }

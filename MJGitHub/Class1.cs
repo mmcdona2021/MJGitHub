@@ -10,7 +10,7 @@ namespace MJGitHub
         public String Name;
         public Class1()
         {
-            Name = " Monique Jackson - The Code Master! ";// Insert your name and moniker
+            Name = " Monique A Jackson - The Code Master! ";// Insert your name and moniker
         }
        
     }
